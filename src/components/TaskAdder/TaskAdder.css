@@ -1,0 +1,21 @@
+.container{
+    width: 25rem;
+    height: 1.5rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: gray;
+    z-index: 1;
+    margin: auto;
+    padding: 1%;
+}
+
+input{
+    width: 80%;
+    background-color: beige;
+}
+
+button{
+    background-color:beige;
+    border: 1px solid black;
+    border-radius: 20%;
+}

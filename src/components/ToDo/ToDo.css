@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.wrapper {
+  height: 40rem;
+  width: 20rem;
+  border: 2px solid grey;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 1%;
+  overflow: hidden;
+}
+
+.title{
+    text-align: center;
+}
+
+.but{
+  float: right;
+  margin: 1%;
+  background-color:beige;
+  border: 1px solid black;
+  border-radius: 50%;
+}
